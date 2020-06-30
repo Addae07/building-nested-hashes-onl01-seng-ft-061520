@@ -9,4 +9,4 @@ describe "#second_challenge" do
     expect(second_challenge[:capulet].values).to eq([{}, {}, {}, []])
 
   end
-end
+end 
